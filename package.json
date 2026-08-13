@@ -1,6 +1,6 @@
 {
   "name": "language-java",
-  "version": "0.32.1",
+  "version": "0.32.2",
   "description": "Java language support in Atom",
   "engines": {
     "atom": "*",
@@ -18,8 +18,5 @@
   },
   "dependencies": {
     "tree-sitter-java": "0.23.5"
-  },
-  "devDependencies": {
-    "coffeelint": "^1.10.1"
   }
 }
